@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 $date = date("d-M-Y H:i:s");
 $status = array(
-    "Jika cinta itu Array, maka, cintaku padamu tak pernah empty jika di unset().
+    "Monggo luurr... menghadapi musim hujan... waktunya ikan pada mijah. Ready buat indukan lele dan gurame.
 ([ $date ])",
     "Aku rela ko jadi Processor yg kepanasan, asalkan kmu yg jadi heatsink'y yg setiap saat bisa mendinginkan ku
 ([ $date ])",
